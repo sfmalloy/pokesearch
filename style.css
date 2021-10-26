@@ -1,0 +1,17 @@
+footer {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 2%;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    object-fit: contain;
+}
+
+body {
+    text-align: center;
+}
+
