@@ -3,12 +3,12 @@ footer {
     left: 50%;
     transform: translateX(-50%);
     bottom: 2%;
+    padding-top: 10%;
 }
 
 img {
     width: 30%;
-    height: 30%;
-    object-fit: contain;
+    height: auto;
 }
 
 body {
